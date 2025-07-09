@@ -2,7 +2,7 @@
   "name": "cineverse",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mohitgundal.github.io/Cineverse",
+  "homepage": "https://mohitgundal.github.io/Cineverse/",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.4",
     "@testing-library/jest-dom": "^5.17.0",
