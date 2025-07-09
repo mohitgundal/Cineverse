@@ -1,0 +1,36 @@
+.scrolbar-none::-webkit-scrollbar{
+    display: none;
+}
+
+
+/* Hide scrollbar by default, show on hover */
+.scrollbar-hide {
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE 10+ */
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none; /* Chrome/Safari/Webkit */
+}
+.scrollbar-hover:hover {
+  scrollbar-width: thin;
+}
+.scrollbar-hover:hover::-webkit-scrollbar {
+  display: block;
+  height: 8px;
+  background: #222;
+}
+.scrollbar-hover:hover::-webkit-scrollbar-thumb {
+  background: #444;
+  border-radius: 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
