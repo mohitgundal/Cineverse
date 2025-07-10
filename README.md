@@ -1,9 +1,10 @@
 ## 🎬 Cineverse - Discover, Explore & Watch
 
-![GitHub Stars](https://img.shields.io/github/stars/mohitgundal/Calculator-App?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/mohitgundal/Calculator-App?style=social)
-![GitHub License](https://img.shields.io/github/license/mohitgundal/Calculator-App)
+![GitHub Stars](https://img.shields.io/github/stars/mohitgundal/cineverse?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/mohitgundal/cineverse?style=social)
+![GitHub License](https://img.shields.io/github/license/mohitgundal/cineverse)
 ![Visitor Count](https://komarev.com/ghpvc/?username=mohitgundal&label=Repo+Views&color=blue)
+
 
 Cineverse is a powerful React-based movie and TV show web app that lets you explore trending content, search across genres, view detailed pages, and get intelligent recommendations. Powered by the TMDb API and designed with a modern, responsive UI, Cineverse gives you a Netflix-style experience without leaving your browser.
 
