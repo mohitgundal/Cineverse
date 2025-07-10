@@ -23,7 +23,7 @@ Cineverse is a powerful React-based movie and TV show web app that lets you expl
 ---
 
 ## 🌐 Live Demo
-👉 [Launch Cineverse](https://your-demo-link.netlify.app)
+👉 [Launch Cineverse](https://mohitgundal.github.io/cineverse/)
 
 ---
 
