@@ -30,13 +30,13 @@ Cineverse is a powerful React-based movie and TV show web app that lets you expl
 ## 📸 Screenshots
 
 ### 🏠 Home with Banner
-![Calculator ScreenShot 1](Images/Screenshot1.png)
+![Home ScreenShot](Images/Screenshot1.png)
 
 ### 🔍 Search Results
-![Calculator ScreenShot 2](Images/Screenshot2.png)
+![Search ScreenShot](Images/Screenshot2.png)
 
 ### 🎬 Details Page
-![Calculator ScreenShot 3](Images/Screenshot3.png)
+![Details ScreenShot](Images/Screenshot3.png)
 
 ---
 
