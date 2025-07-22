@@ -1,16 +1,3 @@
-// import React from "react";
-
-// const Loader = () => (
-//   <div className="fixed top-0 left-0 w-full h-full bg-black/50 flex justify-center items-center z-50">
-//     <div className="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-white"></div>
-//   </div>
-// );
-
-// export default Loader;
-
-
-
-// src/components/Loader.js
 import React from 'react';
 
 const Loader = () => {
