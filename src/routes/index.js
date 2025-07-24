@@ -37,6 +37,10 @@ const router = createBrowserRouter([
     path: "*", // 👈 catch-all route for unmatched base paths (like /random)
     element: <NotFound />
   }
-]);
+],
+  {
+    basename: "/cineverse"
+  }
+);
 
 export default router;
